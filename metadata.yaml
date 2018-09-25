@@ -1,16 +1,21 @@
 _repo: Oeuvres-completes-de-Charles-Peguy-tome-1_57023
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   other_contributor:
     agent_name: Millerand, Alexandre
     gutenberg_agent_id: '49151'
     url: http://www.gutenberg.org/2009/agents/49151
+covers:
+- cover_type: archival
+  image_path: 57023-h/images/cover.jpg
 creator:
   author:
     agent_name: Péguy, Charles
     gutenberg_agent_id: '49150'
     url: http://www.gutenberg.org/2009/agents/49150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57023#Oeuvres-completes-de-Charles-Peguy-tome-1
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
